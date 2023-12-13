@@ -1,0 +1,6 @@
+
+Compiling:
+gcc project1.cpp -lstdc++ -o project2
+
+Running:
+./project2
